@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373896102370",
+    "project_id": "tixsee-457d1",
+    "storage_bucket": "tixsee-457d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373896102370:android:c70b59bca818370c5539bb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373896102370-n2okelelc6sl59k1acfs5ca3lmeomree.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE76tjUzRrRHGRfmCtBlWv4OHdrVXg4Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373896102370-n2okelelc6sl59k1acfs5ca3lmeomree.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
